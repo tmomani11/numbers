@@ -76,10 +76,10 @@ You should also verify:
 | 7 | 1 Odd  2 Even  3 Odd  4 Even  5 Odd  6 Even  7 Odd |
 
 ## Challenges and Solutions
-[Optional: Write about any issues you faced with loops, arithmetic evaluation, or file redirection and how you fixed them.]
+[Optional: Describe any challenges you encountered while creating this script and how you solved them. This could include debugging issues, understanding regular expressions, or Git workflow problems.]
 
 ## Resources
-[List any references you used — class slides, Bash documentation, ChatGPT, etc. Follow the syllabus citation rules.]
+[List any resources you used (class slides, ChatGPT, etc.). Please refer to the course syllabus for more details on citations.]
 
 ## License
 This project is part of coursework for Chapman University and is intended for educational purposes.
